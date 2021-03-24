@@ -1,0 +1,7 @@
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\Bootcamp_Localiza\16-Projeto_API_MongoDB\ProjetoMongo_Vitor\Api\obj\Debug\net5.0\Api.MvcApplicationPartsAssemblyInfo.cache
